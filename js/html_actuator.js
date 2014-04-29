@@ -151,7 +151,7 @@ HTMLActuator.prototype.clearMessage = function () {
   this.messageContainer.classList.remove("game-over");
 };
 
-HTMLActuator.prototype.scoreTweetButton = function () {
+/*HTMLActuator.prototype.scoreTweetButton = function () {
   var tweet = document.createElement("a");
   tweet.classList.add("twitter-share-button");
   tweet.setAttribute("href", "https://twitter.com/share");
@@ -166,3 +166,4 @@ HTMLActuator.prototype.scoreTweetButton = function () {
 
   return tweet;
 };
+*/

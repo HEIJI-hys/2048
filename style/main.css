@@ -417,7 +417,8 @@ hr {
     background-size: 100% 100%;  }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
-    background: #edcf72;
+    background: url(daye.jpg);
+    background-size: 100% 100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 0px; }
     @media screen and (max-width: 520px) {
@@ -825,7 +826,7 @@ hr {
     transform: translate(202px, 202px); }
 
   .tile .tile-inner {
-    font-size: 35px; }
+    font-size: 0px; }
 
   .game-message {
     padding-top: 0; }
