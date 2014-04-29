@@ -434,7 +434,7 @@ hr {
     font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
-        font-size: 25px; } }
+        font-size: 0px; } }
   .tile.tile-512 .tile-inner {
     background: url(shannonp.jpg);
     background-size: 100% 100%;

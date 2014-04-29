@@ -1,6 +1,8 @@
 #PC 2048
+
 Just for fun XD
-Hosted on Github, FREE
+
+Hosted on Github
 
 FYI:
 
@@ -16,6 +18,8 @@ FYI:
 
 64-Ms.Leslie
 
-128-
+128-Catherine
 
 256-Ms. Cambell
+
+512-Shannon
