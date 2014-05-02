@@ -6,7 +6,7 @@ Hosted on Github
 
 FYI:
 
-2-Vanessa
+2-Ms.G
 
 4-Kamsi
 
@@ -18,8 +18,14 @@ FYI:
 
 64-Ms.Leslie
 
-128-Catherine
+128-Vanessa
 
 256-Ms. Cambell
 
 512-Shannon
+
+1024-Catherine
+
+2048-???
+
+4096...-The boss
