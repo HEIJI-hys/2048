@@ -272,7 +272,7 @@ hr {
      }
     .game-message.game-won p, .game-message.game-over p {
       -webkit-animation:ease-in-out 2500ms;
-      -moz-animation: ease-in-out 2500ms;
+      -moz-animation:fade-in 800ms ease 1200ms ease-in-out 2500ms;
       animation:ease-in-out 2500ms;
       -webkit-animation-fill-mode: both;
       -moz-animation-fill-mode: both;
