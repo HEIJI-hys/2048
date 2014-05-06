@@ -462,13 +462,15 @@ hr {
       .tile.tile-2048 .tile-inner {
         font-size: 0px; } }
   .tile.tile-super .tile-inner {
-    background: url(me.PNG);
+    background: url(me.jpg);
     background-size: 100% 100%;
-    text-align: right;
-    font-size: 2px; }
+    text-align: middle;
+    text-indent: 65px;
+    font-size: 13px;
+    color:navy; }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner {
-        font-size: 1px; } }
+        font-size: 3px; } }
 
 @-webkit-keyframes appear {
   0% {
